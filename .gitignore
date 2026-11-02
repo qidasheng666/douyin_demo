@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+
+# Local browser profile and development artifacts
+.douyin-browser/
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.vscode/
+
+# Locally downloaded media and unrelated nested project
+downloads/
+deepseek_superagent_v1/

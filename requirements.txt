@@ -1,0 +1,4 @@
+requests==2.34.2
+dashscope==2.0.1
+DrissionPage==4.1.1.4
+python-dotenv==1.2.2
